@@ -1,11 +1,11 @@
 # Site settings
 author: Jessica Yoon
-title: 
+title: A Lovely Day
 header-img: img/home-bg.png
 email: jyoon91@gmail.com
 copyright_name: Jessica Yoon
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Inside a Data Science Student's  Mind
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jj-yoon
